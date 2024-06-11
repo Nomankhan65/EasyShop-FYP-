@@ -5,8 +5,10 @@ EasyShop Mobile is a cutting-edge e-commerce application built using Flutter, Da
 - User can view detailed product descriptions, images, and prices and can search for specific products using keywords or filters.
 - User can add products to their shopping cart and adjust quantities or remove items from the cart.
 - User can add products to their favorites list for quick access later and manage their list of favorite products.
-- User can create orders by confirming items in their shopping cart and can view the status of their orders (pending, processing, shipped, delivered, etc.).
+- User can create orders by confirming items in their shopping cart and can view the status of their orders (pending, processing, delivered).
 - User can cancel orders within a specified timeframe before shipment.
 - User can ask questions about products.
 - User can manage their personal information, such as name,profile picture,
+  ![user-screens](https://github.com/Nomankhan65/EasyShop_Final-Year-Project/assets/139708603/415c5c53-e5bb-4dc8-be26-798eaec00b7d)
+
 # Admin Functionality
