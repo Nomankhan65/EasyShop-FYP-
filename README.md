@@ -12,3 +12,11 @@ EasyShop Mobile is a cutting-edge e-commerce application built using Flutter, Da
   ![user-screens](https://github.com/Nomankhan65/EasyShop_Final-Year-Project/assets/139708603/415c5c53-e5bb-4dc8-be26-798eaec00b7d)
 
 # Admin Functionality
+- admin can add new product edit and delete product,
+- admin can view all user and add new user based on role,
+- admin can view all sales,
+- admin can view and manage all orders,
+- admin can manage profile,
+- admin can view all FAQ,s and write repley,
+ ![admin-screens](https://github.com/Nomankhan65/EasyShop_Final-Year-Project/assets/139708603/302507d8-6955-43e1-a1a6-b3ff3c3ffe25)
+
