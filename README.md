@@ -1,6 +1,6 @@
 # EasyShop Mobile Application
 EasyShop Mobile is a cutting-edge e-commerce application built using Flutter, Dart, Firebase, and Stripe payment gateway integration. This mobile app provides users with a seamless shopping experience, allowing them to browse through a wide range of products, add items to their cart, and securely complete transactions using the Stripe payment gateway.
-- Source code will upload soon,
+- Source code will upload soon.
 # User Functionality
 - User can create an account with their email address and log in securely with their credentials.
 - User can view detailed product descriptions, images, and prices and can search for specific products using keywords or filters.
